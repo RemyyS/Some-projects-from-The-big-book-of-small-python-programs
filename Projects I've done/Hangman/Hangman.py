@@ -2,7 +2,7 @@ import random
 import sys
 wordtoguess = []
 amountoftries = 5
-words = ["Aardvark", "Orange", "Mptkxp"]
+words = ["Aardvark", "Orange", "Mptkxp", "Bolosse"]
 
 selectedword = random.choice(words).upper()
 
